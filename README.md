@@ -82,10 +82,9 @@ Model eğitimi TensorFlow üzerinde yürütüldü.
 ---
 
 ### 📫 Bana Ulaş
-📧 **E-posta:** ezginuruyaroglu@gmail.com  
-🌐 **Web:** [jokersoftcrm.com](https://jokersoftcrm.com/)  
+📧 **E-posta:** ezginuruyaroglu@gmail.com 
 💼 **LinkedIn:** [linkedin.com/in/ezgi-nur-uyaroglu](https://www.linkedin.com/in/ezgi-nur-uyaroglu/)
 
 ---
 
-⭐️ *Bu profil README’si DrCetmi tasarımına benzer biçimde hazırlanmıştır.*
+
