@@ -1,3 +1,4 @@
+[README_dark.md](https://github.com/user-attachments/files/29224448/README_dark.md)
 <div align="center">
 
 # Ezgi Nur UYAROĞLU 👋
